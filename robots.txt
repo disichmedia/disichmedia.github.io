@@ -1,0 +1,5 @@
+# TEST verzija: stranice imaju noindex. Kad sajt postane PRAVI, ukloni noindex iz HTML-a.
+User-agent: *
+Allow: /
+
+Sitemap: https://disichmedia.github.io/sitemap.xml
